@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yenhsunlin.github.io/readme.html</loc>
-    
-    <lastmod>2021-08-03</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://yenhsunlin.github.io/2021/07/26/randgen/</loc>
     
     <lastmod>2021-08-02</lastmod>
@@ -193,14 +186,14 @@
   </url>
   
   <url>
-    <loc>https://yenhsunlin.github.io/tags/General-distributions/</loc>
+    <loc>https://yenhsunlin.github.io/tags/Uniform-distribution/</loc>
     <lastmod>2021-08-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://yenhsunlin.github.io/tags/Uniform-distribution/</loc>
+    <loc>https://yenhsunlin.github.io/tags/General-distributions/</loc>
     <lastmod>2021-08-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
