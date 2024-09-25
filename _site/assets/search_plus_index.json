@@ -1,0 +1,71 @@
+{"/jekyll-gitbook/others/about/": {
+    "title": "About others",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/others/about/",
+    "body": "This is an about page for “others” in the collections."
+  },"/jekyll-gitbook/pages/about/": {
+    "title": "About",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/pages/about/",
+    "body": "This is an about page."
+  },"/jekyll-gitbook/pages/contact/": {
+    "title": "Contact",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/pages/contact/",
+    "body": "This is an contact page."
+  },"/jekyll-gitbook/pages/design/draft/": {
+    "title": "Design Draft",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/pages/design/draft/",
+    "body": "This is an draft page."
+  },"/jekyll-gitbook/jekyll/2023-12-12-footnotes.html": {
+    "title": "Using Footnotes",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/jekyll/2023-12-12-footnotes.html",
+    "body": "This jekyll-theme supports MathJax to render footnotes in markdown. e.g., The well known Pythagorean theorem $x^2 + y^2 = z^2$ was proved to be invalid for other exponents[^1]. Meaning the next equation has no integer solutions: $$ x^n + y^n = z^n $$ The well known Pythagorean theorem $x^2 + y^2 = z^2$ was proved to be invalid for other exponents1. Meaning the next equation has no integer solutions: \\[x^n + y^n = z^n\\] Long contents long contents ….. a b c d Sub title 1 Sub title 2 Sub title 3 Long contents long contents ….. a b c d Sub title 1 Sub title 2 Sub title 3 Long contents long contents ….. a b c d Sub title 1 Sub title 2 Sub title 3 Long contents long contents ….. a b c d Sub title 1 Sub title 2 Sub title 3 Long contents long contents ….. a b c d Sub title 1 Sub title 2 Sub title 3 Long contents long contents ….. a b c d Sub title 1 Sub title 2 Sub title 3 https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem &#8617;"
+  },"/jekyll-gitbook/jekyll/2023-10-14-math-latex.html": {
+    "title": "MathJax and LaTeX",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/jekyll/2023-10-14-math-latex.html",
+    "body": "This jekyll-theme supports MathJax to render $\\LaTeX$ and mathematics expressions. TIP Currently, Kramdown uses double dollar sign delimiters for inline and display math: https://kramdown.gettalong.org/syntax.html#math-blocks. e.g., The well known Pythagorean theorem $x^2 + y^2 = z^2$ was proved to be invalid for other exponents. Meaning the next equation has no integer solutions: $$ x^n + y^n = z^n $$ The well known Pythagorean theorem $x^2 + y^2 = z^2$ was proved to be invalid for other exponents. Meaning the next equation has no integer solutions: \\[x^n + y^n = z^n\\] Another example with more complex markups: When $a \\ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are $$x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}.$$ When $a \\ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are \\[x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}.\\] Refer to the MathJax website for more examples."
+  },"/jekyll-gitbook/jekyll/2023-08-31-mermaid.html": {
+    "title": "Diagrams with mermaid.js",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/jekyll/2023-08-31-mermaid.html",
+    "body": "This jekyll-theme supports mermaid.js to render diagrams in markdown. To enable the mermaid support, you need to set mermaid: true in the front matter of your post. --- title: Diagrams with mermaid.js date: 2023-08-31 layout: post mermaid: true --- Then you can use mermaid syntax in your markdown: graph TD; A--&gt;B; A--&gt;C; B--&gt;D; C--&gt;D; graph TD; A--&gt;B; A--&gt;C; B--&gt;D; C--&gt;D; Or, even some complex examples: sequenceDiagram participant Alice participant Bob Alice-&gt;&gt;John: Hello John, how are you? loop Healthcheck John-&gt;&gt;John: Fight against hypochondria end Note right of John: Rational thoughts &lt;br/&gt;prevail! John--&gt;&gt;Alice: Great! John-&gt;&gt;Bob: How about you? Bob--&gt;&gt;John: Jolly good! sequenceDiagram participant Alice participant Bob Alice-&gt;&gt;John: Hello John, how are you? loop Healthcheck John-&gt;&gt;John: Fight against hypochondria end Note right of John: Rational thoughts &lt;br/&gt;prevail! John--&gt;&gt;Alice: Great! John-&gt;&gt;Bob: How about you? Bob--&gt;&gt;John: Jolly good! Refer to the mermaid.js website for more examples."
+  },"/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html": {
+    "title": "Tips, Warnings, and Dangers",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html",
+    "body": "This jekyll-theme supports tips, warnings, and dangers blocks and the style is referred from the discord.js website. You could have the following markdown attributes (supported by kramdown): Tips Using a {: .block-tip} attribute: &gt; ##### TIP &gt; &gt; This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have &gt; this or a similar version after installation. {: .block-tip } TIP This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have this or a similar version after installation. Warnings Using a {: .block-warning} attribute: &gt; ##### WARNING &gt; &gt; Be sure that you're familiar with things like async/await and object destructuring &gt; before continuing, as we'll be making use of features like these. {: .block-warning } WARNING Be sure that you’re familiar with things like async/await and object destructuring before continuing, as we’ll be making use of features like these. Dangers Using a {: .block-danger} attribute: &gt; ##### DANGER &gt; &gt; You cannot delete an ephemeral message. {: .block-danger } DANGER You cannot delete an ephemeral message."
+  },"/jekyll-gitbook/jekyll/2022-06-26-wide_tables.html": {
+    "title": "Wide tables",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/jekyll/2022-06-26-wide_tables.html",
+    "body": "A wide tables needs to be wrapped into a div with class table-wrapper to make sure it displayed as expected on mobile devices. For example, &lt;div class=\"table-wrapper\" markdown=\"block\"&gt; |title1|title2|title3|title4|title5|title6|title7|title8| |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:| |1|2|3|4|5|6|7|8| |1|2|3|4|5|6|7|8| |1|2|3|4|5|6|7|8| |1|2|3|4|5|6|7|8| &lt;/div&gt; Will be rendered as title1 title2 title3 title4 title5 title6 title7 title8 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8"
+  },"/jekyll-gitbook/jekyll/2022-05-24-page_cover.html": {
+    "title": "Page with cover image",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/jekyll/2022-05-24-page_cover.html",
+    "body": "The jekyll-gitbook theme supports adding a cover image to a specific page by adding a cover field to the page metadata: --- title: Page with cover image author: Tao He date: 2022-05-24 category: Jekyll layout: post + cover: /assets/jekyll-gitbook/dinosaur.gif ---"
+  },"/jekyll-gitbook/jekyll/2021-08-10-toc.html": {
+    "title": "How to Generate TOC",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/jekyll/2021-08-10-toc.html",
+    "body": "The jekyll-gitbook theme leverages jekyll-toc to generate the Contents for the page. The TOC feature is not enabled by default. To use the TOC feature, modify the TOC configuration in _config.yml: toc: enabled: true Why this repo long contents ….. a b c d Sub title 1 Sub title 2 Sub title 3 Why this repo long contents ….. 1 2 3 4 Why this repo long contents ….. e f g h Why this repo 5 6 7 8 Why this repo long contents ….. a b c d Why this repo long contents ….. 1 2 3 4 Why this repo long contents ….. e f g h Why this repo 5 6 7 8 Why this repo long contents ….. a b c d Why this repo long contents ….. 1 2 3 4 Why this repo long contents ….. e f g h Why this repo 5 6 7 8 Why this repo long contents ….. a b c d Why this repo long contents ….. 1 2 3 4 Why this repo long contents ….. e f g h Why this repo 5 6 7 8"
+  },"/jekyll-gitbook/jekyll/2019-04-29-license.html": {
+    "title": "License",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/jekyll/2019-04-29-license.html",
+    "body": "This work is open sourced under the Apache License, Version 2.0, using the same license as the original GitBook repository. Copyright 2019 Tao He."
+  },"/jekyll-gitbook/jekyll/2019-04-28-howto.html": {
+    "title": "How to Get Started",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/jekyll/2019-04-28-howto.html",
+    "body": "The jekyll-gitbook theme can be used just as other Jekyll themes and support remote theme on Github Pages, see the official guide as well. You can introduce this jekyll theme into your own site by either Fork this repository and add your markdown posts to the _posts folder, then push to your own Github repository. Use as a remote theme in your _config.yml(just like what we do for this site itself), # Configurations title: Jekyll Gitbook longtitle: Jekyll Gitbook remote_theme: sighingnow/jekyll-gitbook TIP No need to push generated HTML bundle."
+  },"/jekyll-gitbook/jekyll/2019-04-27-why.html": {
+    "title": "Why Jekyll with GitBook",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/jekyll/2019-04-27-why.html",
+    "body": "GitBook is an amazing frontend style to present and organize contents (such as book chapters and blogs) on Web. The typical to deploy GitBook at Github Pages is building HTML files locally and then push to Github repository, usually to the gh-pages branch. However, it’s quite annoying to repeat such workload and make it hard for people do version control via git for when there are generated HTML files to be staged in and out. This theme takes style definition out of generated GitBook site and provided the template for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed to Github Pages without generating and uploading HTML bundle every time when there are changes to the original repository."
+  }}
