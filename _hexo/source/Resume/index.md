@@ -8,16 +8,21 @@ date: 2024-09-26 10:00:30
 
 ### • Experience
 
+**NSTC Research Scholar**
+*Institute of Physics, Academia Sinica, Taiwan*
+PI of an NSTC Research Grant
+Aug. 2026 - Present
+
 **Postdoctoral Scholar**
 *Institute of Physics, Academia Sinica, Taiwan*
-Aug. 2023 - Present
+Aug. 2023 - Jul. 2026
 
 **Visiting Scholar**
-*School of Physics, Meblourne University, Australia*
+*School of Physics, Melbourne University, Australia*
 Oct. 2023 - Nov. 2023
 
 **Postdoctoral Scholar**
-*Physical Division, National Center for Theoretical Sciences, Taiwan*
+*Physics Division, National Center for Theoretical Sciences, Taiwan*
 Dec. 2021 - Jul. 2023
 
 **Distinguished Postdoctoral Scholar**
