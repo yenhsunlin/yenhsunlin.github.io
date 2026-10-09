@@ -1,1 +1,101 @@
-//customize your own CSS for page display
+// Deep charcoal palette with bright text and subtly raised panels.
+$page-background = #111315
+$page-foreground = #fff
+$muted-foreground = #e1e5e8
+$panel-background = #1b1f23
+$page-border = #363d44
+$link-hover = #ffbec9
+
+html
+  color-scheme: dark
+
+body
+  background-color: $page-background
+  color: $page-foreground
+
+.page article a,
+.author-discrip,
+.social-links .e-social-link,
+.social-icons .fa,
+.social-icons .fas,
+.social-icons .fab
+  color: $page-foreground
+
+#blog_name a,
+.menus_items li a,
+.nav_items li a,
+#page_footer,
+#page_footer a
+  color: $muted-foreground
+
+#blog_name a:hover,
+.menus_items li a:hover,
+#page_footer a:hover
+  color: $page-foreground
+
+.page article a:hover,
+.social-icons .fa:hover,
+.social-icons .fas:hover,
+.social-icons .fab:hover
+  color: $link-hover
+
+.cv-links
+  color: #b9dcff !important
+
+#page_header,
+#page_footer,
+.menus_items,
+.menus_items li,
+.social-icons,
+.nav_items,
+.nav_items li
+  border-color: $page-border
+
+.author-avatar img
+  border-color: #c9d1d9
+
+#page_footer,
+.nav_items
+  background-color: $panel-background
+
+.nav_items::before
+  border-color: transparent transparent transparent $panel-background
+
+.nav_items li a:hover
+  color: $page-foreground
+  background-color: $page-background
+
+blockquote
+  color: $muted-foreground
+  background-color: $panel-background
+  border-left-color: $page-border
+
+.page article code
+  background: rgba(255, 255, 255, 0.08)
+
+.menus_icon,
+.site-nav,
+.cd-top i,
+.btn
+  background-color: $panel-background
+
+.btn:hover
+  background-color: #2a3036
+
+.m-social-links
+  color: $page-foreground !important
+  border-color: $page-border !important
+
+@media (max-width: 34em)
+  .menus_items,
+  .social-icons
+    background-color: $panel-background
+    &::before
+      border-color: $panel-background transparent
+
+::-webkit-scrollbar,
+::-webkit-scrollbar-track
+  background-color: $page-background
+
+::-webkit-scrollbar-thumb
+  background-color: #626b74
