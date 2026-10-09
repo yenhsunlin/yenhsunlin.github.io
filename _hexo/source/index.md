@@ -16,7 +16,7 @@ A supernova offers something rare in the search for dark matter: a clock. With m
 Across these cosmic laboratories, I connect particle theory with numerical modeling and multimessenger observations. A delayed arrival, a change in stellar warmth, or a fleeting excess of light can become a question precise enough for nature to answer. My aim is to turn those faint traces into measurements, letting the lives of stars tell us more about the matter we have yet to see.
 
 *Full CV w/t Publication List* <a href="attaches/CV_YHLin.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
-**Contact:** <span style="font-family: monospace;">yenhsun[at]as.edu.tw</span>
+**Contact:** <a class="monospace" href="mailto:yenhsun@as.edu.tw">yenhsun[at]as.edu.tw</a>
 
 ### • Topic of Research
 

@@ -58,15 +58,15 @@ Aug, 2026 - Jul, 2029
 
 ### • Github Projects
 
-<span style="font-family: monospace;">snorer</span>: **<i>S</i>pernova-<i>N</i>eutrino-b<i>O</i>osted da<i>R</i>k matt<i>ER</i>**
+<span class="monospace">snorer</span>: **<i>S</i>pernova-<i>N</i>eutrino-b<i>O</i>osted da<i>R</i>k matt<i>ER</i>**
 **Description:** Evaluating the time-of-flight signatures of boosted dark matter due to supernova neutrinos from Milky Way, SN1987a and arbitrary distant galaxy.
 **Role:** Main developer and maintainer
-**Project Page:** <span style="font-family: monospace;">https://github.com/yenhsunlin/snorer</span>
+**Project Page:** <span class="monospace">https://github.com/yenhsunlin/snorer</span>
 
-<span style="font-family: monospace;">dukes</span>: **<i>D</i>iff<i>U</i>se-boosted dar<i>K</i> matt<i>E</i>r by <i>S</i>upernova neutrinos**
+<span class="monospace">dukes</span>: **<i>D</i>iff<i>U</i>se-boosted dar<i>K</i> matt<i>E</i>r by <i>S</i>upernova neutrinos**
 **Description:** Evaluating the signatures of diffuse boosted dark matter by supernova neutrinos in the early Universe.
 **Role:** Main developer and maintainer
-**Project Page:** <span style="font-family: monospace;">https://github.com/yenhsunlin/dukes</span>
+**Project Page:** <span class="monospace">https://github.com/yenhsunlin/dukes</span>
 
 ### • Programing Skill
 
