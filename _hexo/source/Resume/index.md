@@ -54,7 +54,7 @@ Taiwan, Aug. 2006 - Jul. 2010
 
 **Investigating dark matter distribution function in stellar objects with the Boltzmann transport equation**
 PI of an NSTC Research Grant under No.&nbsp;115-2112-M-001-037-MY3
-Aug, 2026 - Jul, 2029
+2026 - 2029
 
 **Compact stellar object as a new probe on particle dark matter**
 AS Postdoctoral Fellowship with Research Grant
