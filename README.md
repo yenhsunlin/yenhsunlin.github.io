@@ -51,7 +51,7 @@ npm --prefix _hexo run export
 
 2026-10-09 從 iCloud 的 `Documents/CV` 複製原始專案，iCloud 原檔保留。匯入的 `_hexo/source/attaches/CV_YHLin.pdf` 採用 GitHub 提交 `7213b295b1a5f5da7e00bcdeaa6a1eebab9c43a4` 的新版附件，避免重建時退回舊版。
 
-同日更新網站 CV 下載檔：目前的 `CV_YHLin.pdf` 由 `yenhsunlin/CV_plain` 提交 `e40eee6610b15edd2d8888ef5970d7a29a2fd68d` 的 `cv_polished.tex` 原稿編譯，保留該版 CV 的完整內容。首頁不再提供不含論文列表的舊 Résumé 下載連結。
+2026-10-10 更新網站 CV 下載檔：目前的 `CV_YHLin.pdf` 由 `yenhsunlin/CV_plain` 提交 `3d23d6a6f8fca60d86486baac4b5573ebed6ff1a` 的 `cv_polished.tex` 原稿編譯，保留該版 CV 的完整內容。首頁不再提供不含論文列表的舊 Résumé 下載連結。
 
 整合時保留根目錄既有的發布檔案。乾淨建置只產生目前主題使用的檔案，部分舊樣式與 Fancybox 資產仍留在根目錄；匯出工具不會自動移除它們。頁尾年份由主題自動使用當前年份。
 
