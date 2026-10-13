@@ -20,3 +20,5 @@ html(lang=config.language)
             include ./footer.pug
         each item in theme.CDN_USE.js
             script(src=url_for(item))
+        script(src=url_for('/js/mathjax-config.js'))
+        script(defer src='https://cdn.jsdelivr.net/npm/mathjax@4.0.0/tex-chtml.js')

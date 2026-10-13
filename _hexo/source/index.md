@@ -50,4 +50,4 @@ Convener of the [High Energy Theory Group](https://www.phys.sinica.edu.tw/~hepth
 
 - **Prof. Seokhoon Yun**
 Assistant Professor of the Department of Physics, Kyungpook National University, Korea
-[<i class="fa fa-envelope"></i>](mailto:seokhoon.yun@knu.ac.kr)&ensp;[<i class="fa fa-globe"></i>](https://research.knu.ac.kr/en/persons/seokhoon-yun/)
+[<i class="fa fa-envelope"></i>](mailto:seokhoon.yun@knu.ac.kr)

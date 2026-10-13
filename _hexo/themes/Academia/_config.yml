@@ -74,6 +74,6 @@ CDN_USE:
 #    - https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css
     - https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css # fontawesome 5
   js:
-    - https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js #/js/third-party/jquery.min.js
-    - https://cdn.jsdelivr.net/npm/jquery-pjax@latest/jquery.pjax.min.js
+    - https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js #/js/third-party/jquery.min.js
+    - https://cdn.jsdelivr.net/npm/jquery-pjax@2.0.1/jquery.pjax.min.js
     - /js/main.js

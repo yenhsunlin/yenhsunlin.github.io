@@ -28,7 +28,7 @@ Dagger (†) and asterisk (*) indicate that I am the *first author* and the *cor
 
 10. C.-S. Chen and **Y.-H. Lin**<sup>*</sup>, *On the evolution process of two-component dark matter in the Sun*, [*JHEP* **04**, 074 (2018)](https://doi.org/10.1007/JHEP04(2018)074), [<span class="monospace">arXiv:1802.06956</span>](https://arxiv.org/abs/1802.06956)
 
-11. C.-H. Chen and **Y.-H. Lin**, *Study of B<sub>c</sub><sup>±</sup> → (D<sup>0</sup>K<sup>±</sup>, D<sup>0</sup>π<sup>±</sup>) decays*, [<span class="monospace">arXiv:1710.05531</span>](https://doi.org/10.48550/arXiv.1710.05531)
+11. C.-H. Chen and **Y.-H. Lin**, *Study of {% raw %}\(B_c^{\pm} \to (D^0 K^{\pm},\, D^0 \pi^{\pm})\){% endraw %} decays*, [<span class="monospace">arXiv:1710.05531</span>](https://doi.org/10.48550/arXiv.1710.05531)
 
 12. C.-S. Chen, G.-L. Lin, **Y.-H. Lin** and F. Xu, *The 17 MeV anomaly in beryllium decays and U(1) portal to dark matter*, [*Int. J. Mod. Phys. A* **32**, 1750178 (2017)](https://doi.org/10.1142/S0217751X17501780), [<span class="monospace">arXiv:1609.07198</span>](https://arxiv.org/abs/1609.07198)
 
@@ -61,7 +61,7 @@ Dagger (†) and asterisk (*) indicate that I am the *first author* and the *cor
 
 1. International Conference on High Energy Physics
 **Title:** *Exploring dark sector parameters in light of neutron star temperatures*
-**Title:** *Constraints on lepton-flavor-violating scalar portal using the Belle II result in the search for e<sup>+</sup>e<sup>−</sup> →  e<sup>±</sup> + invisible with L = 276 pb<sup>−1</sup>*
+**Title:** *Constraints on lepton-flavor-violating scalar portal using the Belle II result in the search for {% raw %}\(e^+e^-\to e^\pm+\){% endraw %} invisible with {% raw %}\(L=276~{\rm pb}^{-1}\){% endraw %}*
 **Venue:** Bologna, Italy
 **Date:** 7/06 - 13, 2022
 **Published:** *PoS* ICHEP2022 (2022) 106 and *PoS* ICHEP2022 (2022) 1229 

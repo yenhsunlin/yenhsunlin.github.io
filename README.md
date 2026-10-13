@@ -47,6 +47,14 @@ npm --prefix _hexo run export
 
 請保留 `_hexo/_config.yml` 的 `public_dir: public`；不要改成 `..` 或 repo 根目錄，因為 Hexo clean 會刪除整個輸出目錄。
 
+## 數學公式
+
+主題載入 MathJax 4.0.0（jsDelivr CDN），設定在 `_hexo/themes/Academia/source/js/mathjax-config.js`。支援行內 `\(...\)`、獨立置中 `\[...\]` 或 `$$...$$`。`equation`、`align` 環境會自動在右側編號；帶星號的環境不編號，亦可使用 `\tag{...}`、`\label{...}` 與 `\eqref{...}`。每次 PJAX 換頁會清除舊公式並重設編號。
+
+目前使用的 Markdown renderer 會處理反斜線和底線；日後撰寫公式時，請把含公式的 HTML 區塊放在 Hexo 的 `{% raw %}` / `{% endraw %}` 標籤之間，保留原始 TeX。不要使用程式碼區塊包公式，MathJax 會略過程式碼。現有頁面尚未加入公式。
+
+為維持 PJAX 相容性，jQuery 固定為 3.7.1，jquery-pjax 固定為 2.0.1。
+
 ## 整合紀錄
 
 2026-10-09 從 iCloud 的 `Documents/CV` 複製原始專案，iCloud 原檔保留。匯入的 `_hexo/source/attaches/CV_YHLin.pdf` 採用 GitHub 提交 `7213b295b1a5f5da7e00bcdeaa6a1eebab9c43a4` 的新版附件，避免重建時退回舊版。
