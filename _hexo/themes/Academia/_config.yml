@@ -57,7 +57,7 @@ e_social_links:
 cv_dl:
   enable: true
   dir: /attaches/CV_YHLin.pdf
-  description: Download full CV
+  description: Download CV
 
 
 # Box-shadow

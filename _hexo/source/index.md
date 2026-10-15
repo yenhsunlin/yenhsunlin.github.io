@@ -11,7 +11,7 @@ date: 2024-09-26 10:00:30
 
 Dark matter helps shape galaxies and the large-scale structure of the Universe, yet its nature remains one of the deepest mysteries in physics. As an astroparticle physicist, I look to the sky for clues, searching for its signatures in astronomical observations of supernovae, stars, compact stars, and the circumstellar medium. These environments offer windows into how dark matter might interact with ordinary matter, leaving subtle traces in stellar light and heat. I also investigate how dark matter transport within stellar objects can influence their evolution, using the lives of stars to explore the unseen particles that may surround us.
 
-*Full CV w/t Publication List* <a href="attaches/CV_YHLin.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+*CV w/t Publication List* <a href="attaches/CV_YHLin.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 **Contact:** <a class="monospace" href="mailto:yenhsun@as.edu.tw">yenhsun[at]as.edu.tw</a>
 
 ### • Topic of Research
